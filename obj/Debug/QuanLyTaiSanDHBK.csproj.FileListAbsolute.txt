@@ -1,0 +1,17 @@
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\bin\Debug\DAL\QLTS_DAL.cs
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\bin\Debug\QuanLyTaiSanDHBK.exe.config
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\bin\Debug\QuanLyTaiSanDHBK.exe
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\bin\Debug\QuanLyTaiSanDHBK.pdb
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.csprojAssemblyReference.cache
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.GUI.PhanPhongBan.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.Properties.Resources.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.csproj.GenerateResource.cache
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.csproj.CoreCompileInputs.cache
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.exe
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.pdb
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.GUI.ChiaVeKhoa.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.GUI.ThemVeKhoCuaTruong.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.MainForm.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.GUI.ChungTuGiam.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.GUI.SuaChungTuGiam.resources
+C:\Users\kieungu\source\repos\QuanLyTaiSanDHBK\QuanLyTaiSanDHBK\obj\Debug\QuanLyTaiSanDHBK.csproj.ResolveComReference.cache
